@@ -53,17 +53,35 @@ getline
 * Parse a declarator
 
 > #### Execise
-
-5-11 开始没有完成
+* 5-11 开始没有完成
 
 ### 6. Structures
 
 > * 已知单词表统计词频
 * 未知单词表统计词频并按字母顺序打印
 * Hash Table Lookup
+* Bit-fields
 
 > #### Execise
+* 6-1
+* 6-2
 * 未知单词表统计词频并按词频降序打印 *// 6-4*
+* 6-6
 
-6-1, 6-3,
+### 7. Input and Output
+
+> * Format Output - printf
+* Formatted Input - scanf
+
+> #### Execise
+* 7-2
+* 7-3
+* 7-4
+* 7-5
+
+### 8. The UNIX System Interfaces
+
+> * An Implementation of Fopen and Getc
+* Listing Directories
+* A Storage Allocator
 
